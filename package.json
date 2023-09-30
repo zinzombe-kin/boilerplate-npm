@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kin Leon Zinzombe",
+	"description": "Freecodecamp course on nodejs and npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
